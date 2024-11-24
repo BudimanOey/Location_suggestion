@@ -38,3 +38,5 @@ build/
 **/src/main/resources/*.pem
 **/src/main/resources/*.pem
 **/src/main/resources/application.yml
+
+Dockerfile.*
